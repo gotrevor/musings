@@ -3,11 +3,6 @@ title: Small results
 status: growing
 started: 2026-10-06
 reviewed-by-trevor: pending
-key-claims:
-  - Each linked note is the authority for its result.  It says what is proved, what is assumed, and what is not claimed.  The one-liners here are pointers, not statements.
-claims:
-  - Most results are checked in Lean.  Some are conditional on cited published theorems, and the note says which.
-  - Each result is new as far as we could find, within the limits of the prior-work search the note records.
 ---
 
 # Small results 🧮
@@ -57,6 +52,12 @@ Lean formalizations of results that were already proved but not yet formalized. 
 - 📚 [lean-formalizations](https://github.com/gotrevor/lean-formalizations#contents): the wider set (Mills, Curtis's Frobenius no-formula theorem, Euler's power tower, Wantzel, Hermite–Lindemann, and more).
 - 🌀 [tao-collatz](https://github.com/gotrevor/tao-collatz): Tao 2019, almost all Collatz orbits attain almost bounded values.
 - 🏛️ [goodstein-independence](https://github.com/FormalizedFormalLogic/goodstein-independence): PA does not prove Goodstein's theorem (Kirby–Paris), in the FormalizedFormalLogic org.
+
+## Claims
+
+- 🔑 Each linked note is the authority for its result.  It says what is proved, what is assumed, and what is not claimed.  The one-liners here are pointers, not statements.
+- Most results are checked in Lean.  Some are conditional on cited published theorems, and the note says which.
+- Each result is new as far as we could find, within the limits of the prior-work search the note records.
 
 ---
 

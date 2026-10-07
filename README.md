@@ -17,7 +17,7 @@ Pages are like entries in a knowledge base or a FAQ than like posts: each one is
   - `growing` (revised after feedback),
   - `settled` (I'd stand behind it as written).
 - **Attestation** - pages say who wrote it and how: typically Claude drafting from my own words at my direction.  A future post may cover this in more detail.
-- **Capsule** - the YAML front matter lists each page's claims, with the load-bearing ones marked.  It's an early experiment in writing for two readers at once: you, and your AI.  If your assistant summarizes a page, the capsule is what it shouldn't drop. [This was Claude's idea.  Leaving it.  Maybe it's load-bearing. ]
+- **Capsule** - each page ends with a list of its claims, with the load-bearing ones marked 🔑.  It's an early experiment in writing for two readers at once: you, and your AI.  If your assistant summarizes a page, the capsule is what it shouldn't drop. [This was Claude's idea.  Leaving it.  Maybe it's load-bearing. ]
 - **Comments** - open a [Discussion](https://github.com/gotrevor/musings/discussions).  Corrections welcome.
 
 ## License
