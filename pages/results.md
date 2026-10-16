@@ -15,6 +15,14 @@ These came out of the Lean work: new results, but small ones, not big enough to 
 
 ## New mathematics
 
+### 2026-10-16
+
+- **[Barriers and a phase picture for Collatz's permutation](https://github.com/gotrevor/collatz-moonshot/blob/main/docs/notes/amusical-barriers.md).**  For Klamkin's problem on Collatz's permutation U(2n) = 3n, U(4n±1) = 3n±1: an exact criterion for what an argument must read to prove infinitely many infinite orbits, and a finite-depth corollary, so no finite-depth reading settles it.  On the other side, a permutation one class transposition from U provably has infinitely many infinite orbits (a residue trap), while U has no residue trap at any modulus.  Proved in Lean; the problem itself stays open.
+
+### 2026-10-13
+
+- **[Orbit minima of Collatz's permutation](https://github.com/gotrevor/collatz-moonshot/blob/main/docs/notes/amusical-orbit-minima.md).**  The orbit minima of Collatz's permutation have upper density at most an explicit constant ≈ 0.049780, conjectured to be their exact density.  A positive lower bound would settle Klamkin's problem (a).
+
 ### 2026-10-06
 
 - **[P(7,5,6) holds at 26 points](https://github.com/gotrevor/es7-ladder/blob/master/docs/notes/p756.md).**  Every 26 points in general position contain a convex 7-gon, a 5-cap or a 6-cup.  This is the lowest open rung of the Erdős–Tuza–Valtr ladder toward ES(7) = 33.  A SAT computation, not a Lean proof.
